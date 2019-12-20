@@ -1,0 +1,47 @@
+{
+    "name": "TweetReach",
+    "description": "Powerful Twitter analytics for smart marketers, built by Union Metrics.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1304-tweetreach.jpg",
+    "tags": [
+        "have api",
+        "reports",
+        "social",
+        "tracking",
+        "twitter"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tweetreach\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TweetReach",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1304-tweetreach.jpg",
+            "humanURL": "http:\/\/apidocs.tweetreach.com\/wiki\/API_Overview",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tweetreach-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/apidocs.tweetreach.com\/wiki\/API_Overview"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/zitefeed\/press"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/tweetreachapp"
+        }
+    ]
+}
